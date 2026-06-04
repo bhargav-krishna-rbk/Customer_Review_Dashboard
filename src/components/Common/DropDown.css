@@ -1,0 +1,15 @@
+.dropdown-wrapper{
+    display: grid;
+    color: white;
+    text-align: left;
+    width: 200px;
+    margin-left: 1rem;
+}
+
+.dropdown-select{
+    color: white;
+    background-color:  #83b3e4;
+    border-radius: 8px;
+    margin-top: 0.5rem;
+    height: 2.5rem;
+}

@@ -1,0 +1,1736 @@
+[
+  {
+    "customerId": "CUST001",
+    "customer": "Aarav Patel",
+    "transactions": [
+      {
+        "transactionId": "TXN010",
+        "amount": 75.25,
+        "date": "2025-12-10"
+      },
+      {
+        "transactionId": "TXN009",
+        "amount": 210,
+        "date": "2025-12-30"
+      },
+      {
+        "transactionId": "TXN018",
+        "amount": 47.5,
+        "date": "2026-01-03"
+      },
+      {
+        "transactionId": "TXN007",
+        "amount": 90.5,
+        "date": "2026-01-12"
+      },
+      {
+        "transactionId": "TXN008",
+        "amount": 150,
+        "date": "2026-01-20"
+      },
+      {
+        "transactionId": "TXN017",
+        "amount": 180,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN005",
+        "amount": 45,
+        "date": "2026-02-15"
+      },
+      {
+        "transactionId": "TXN006",
+        "amount": 120,
+        "date": "2026-02-18"
+      },
+      {
+        "transactionId": "TXN023",
+        "amount": 60,
+        "date": "2026-02-25"
+      },
+      {
+        "transactionId": "TXN004",
+        "amount": 60,
+        "date": "2026-03-05"
+      },
+      {
+        "transactionId": "TXN016",
+        "amount": 66,
+        "date": "2026-03-14"
+      },
+      {
+        "transactionId": "TXN024",
+        "amount": 250,
+        "date": "2026-03-18"
+      },
+      {
+        "transactionId": "TXN003",
+        "amount": 310,
+        "date": "2026-03-21"
+      },
+      {
+        "transactionId": "TXN019",
+        "amount": 199.99,
+        "date": "2026-03-28"
+      },
+      {
+        "transactionId": "TXN020",
+        "amount": 130,
+        "date": "2026-04-03"
+      },
+      {
+        "transactionId": "TXN002",
+        "amount": 98.75,
+        "date": "2026-04-12"
+      },
+      {
+        "transactionId": "TXN014",
+        "amount": 140,
+        "date": "2026-04-22"
+      },
+      {
+        "transactionId": "TXN015",
+        "amount": 95,
+        "date": "2026-04-25"
+      },
+      {
+        "transactionId": "TXN013",
+        "amount": 80,
+        "date": "2026-05-05"
+      },
+      {
+        "transactionId": "TXN021",
+        "amount": 85,
+        "date": "2026-05-10"
+      },
+      {
+        "transactionId": "TXN022",
+        "amount": 49.99,
+        "date": "2026-05-11"
+      },
+      {
+        "transactionId": "TXN001",
+        "amount": 245.5,
+        "date": "2026-05-29"
+      },
+      {
+        "transactionId": "TXN011",
+        "amount": 320,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN012",
+        "amount": 55,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN025",
+        "amount": 75,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST002",
+    "customer": "Saanvi Rao",
+    "transactions": [
+      {
+        "transactionId": "TXN049",
+        "amount": 120,
+        "date": "2026-04-11"
+      },
+      {
+        "transactionId": "TXN026",
+        "amount": 520,
+        "date": "2026-05-17"
+      },
+      {
+        "transactionId": "TXN048",
+        "amount": 59.99,
+        "date": "2026-05-29"
+      },
+      {
+        "transactionId": "TXN046",
+        "amount": 89,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN044",
+        "amount": 168,
+        "date": "2026-07-03"
+      },
+      {
+        "transactionId": "TXN045",
+        "amount": 70,
+        "date": "2026-07-06"
+      },
+      {
+        "transactionId": "TXN042",
+        "amount": 34.5,
+        "date": "2026-08-15"
+      },
+      {
+        "transactionId": "TXN043",
+        "amount": 145,
+        "date": "2026-08-16"
+      },
+      {
+        "transactionId": "TXN040",
+        "amount": 60,
+        "date": "2026-09-12"
+      },
+      {
+        "transactionId": "TXN041",
+        "amount": 250,
+        "date": "2026-09-23"
+      },
+      {
+        "transactionId": "TXN039",
+        "amount": 95,
+        "date": "2026-10-10"
+      },
+      {
+        "transactionId": "TXN038",
+        "amount": 85.75,
+        "date": "2026-10-30"
+      },
+      {
+        "transactionId": "TXN036",
+        "amount": 55,
+        "date": "2026-11-20"
+      },
+      {
+        "transactionId": "TXN037",
+        "amount": 140,
+        "date": "2026-11-21"
+      },
+      {
+        "transactionId": "TXN034",
+        "amount": 99.99,
+        "date": "2026-12-01"
+      },
+      {
+        "transactionId": "TXN035",
+        "amount": 110,
+        "date": "2026-12-05"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST003",
+    "customer": "Rohan Singh",
+    "transactions": [
+      {
+        "transactionId": "TXN057",
+        "amount": 220,
+        "date": "2025-12-05"
+      },
+      {
+        "transactionId": "TXN058",
+        "amount": 45.5,
+        "date": "2025-12-22"
+      },
+      {
+        "transactionId": "TXN055",
+        "amount": 90,
+        "date": "2026-01-12"
+      },
+      {
+        "transactionId": "TXN056",
+        "amount": 150,
+        "date": "2026-01-15"
+      },
+      {
+        "transactionId": "TXN069",
+        "amount": 210,
+        "date": "2026-01-22"
+      },
+      {
+        "transactionId": "TXN070",
+        "amount": 88,
+        "date": "2026-01-25"
+      },
+      {
+        "transactionId": "TXN068",
+        "amount": 54,
+        "date": "2026-02-14"
+      },
+      {
+        "transactionId": "TXN053",
+        "amount": 24.99,
+        "date": "2026-02-19"
+      },
+      {
+        "transactionId": "TXN054",
+        "amount": 300,
+        "date": "2026-02-20"
+      },
+      {
+        "transactionId": "TXN063",
+        "amount": 77.7,
+        "date": "2026-03-02"
+      },
+      {
+        "transactionId": "TXN064",
+        "amount": 99,
+        "date": "2026-03-08"
+      },
+      {
+        "transactionId": "TXN052",
+        "amount": 67.9,
+        "date": "2026-03-31"
+      },
+      {
+        "transactionId": "TXN062",
+        "amount": 130,
+        "date": "2026-04-10"
+      },
+      {
+        "transactionId": "TXN065",
+        "amount": 44,
+        "date": "2026-04-14"
+      },
+      {
+        "transactionId": "TXN067",
+        "amount": 199.99,
+        "date": "2026-04-21"
+      },
+      {
+        "transactionId": "TXN074",
+        "amount": 170,
+        "date": "2026-04-28"
+      },
+      {
+        "transactionId": "TXN061",
+        "amount": 86,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN073",
+        "amount": 95.5,
+        "date": "2026-05-08"
+      },
+      {
+        "transactionId": "TXN051",
+        "amount": 180,
+        "date": "2026-05-11"
+      },
+      {
+        "transactionId": "TXN066",
+        "amount": 129.99,
+        "date": "2026-05-18"
+      },
+      {
+        "transactionId": "TXN071",
+        "amount": 39.99,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN059",
+        "amount": 155,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN072",
+        "amount": 145,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN060",
+        "amount": 62,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST004",
+    "customer": "Neha Sharma",
+    "transactions": [
+      {
+        "transactionId": "TXN077",
+        "amount": 79.25,
+        "date": "2025-12-18"
+      },
+      {
+        "transactionId": "TXN096",
+        "amount": 88.88,
+        "date": "2025-12-21"
+      },
+      {
+        "transactionId": "TXN095",
+        "amount": 33.33,
+        "date": "2026-01-10"
+      },
+      {
+        "transactionId": "TXN075",
+        "amount": 125.5,
+        "date": "2026-01-16"
+      },
+      {
+        "transactionId": "TXN094",
+        "amount": 199,
+        "date": "2026-01-29"
+      },
+      {
+        "transactionId": "TXN078",
+        "amount": 60,
+        "date": "2026-02-01"
+      },
+      {
+        "transactionId": "TXN079",
+        "amount": 85,
+        "date": "2026-02-11"
+      },
+      {
+        "transactionId": "TXN093",
+        "amount": 59.99,
+        "date": "2026-02-19"
+      },
+      {
+        "transactionId": "TXN080",
+        "amount": 99,
+        "date": "2026-03-03"
+      },
+      {
+        "transactionId": "TXN092",
+        "amount": 49.99,
+        "date": "2026-03-12"
+      },
+      {
+        "transactionId": "TXN081",
+        "amount": 210,
+        "date": "2026-03-14"
+      },
+      {
+        "transactionId": "TXN082",
+        "amount": 150,
+        "date": "2026-03-20"
+      },
+      {
+        "transactionId": "TXN098",
+        "amount": 140,
+        "date": "2026-03-29"
+      },
+      {
+        "transactionId": "TXN076",
+        "amount": 44,
+        "date": "2026-04-07"
+      },
+      {
+        "transactionId": "TXN091",
+        "amount": 140,
+        "date": "2026-04-22"
+      },
+      {
+        "transactionId": "TXN083",
+        "amount": 45,
+        "date": "2026-04-25"
+      },
+      {
+        "transactionId": "TXN084",
+        "amount": 170,
+        "date": "2026-05-01"
+      },
+      {
+        "transactionId": "TXN085",
+        "amount": 35,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN086",
+        "amount": 250,
+        "date": "2026-05-07"
+      },
+      {
+        "transactionId": "TXN090",
+        "amount": 68,
+        "date": "2026-05-10"
+      },
+      {
+        "transactionId": "TXN097",
+        "amount": 75.5,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN087",
+        "amount": 95,
+        "date": "2026-06-03"
+      },
+      {
+        "transactionId": "TXN088",
+        "amount": 55,
+        "date": "2026-06-04"
+      },
+      {
+        "transactionId": "TXN089",
+        "amount": 120,
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST005",
+    "customer": "Karan Mehta",
+    "transactions": [
+      {
+        "transactionId": "TXN108",
+        "amount": 77.7,
+        "date": "2026-01-19"
+      },
+      {
+        "transactionId": "TXN109",
+        "amount": 160,
+        "date": "2026-01-25"
+      },
+      {
+        "transactionId": "TXN110",
+        "amount": 33,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN117",
+        "amount": 150,
+        "date": "2026-02-06"
+      },
+      {
+        "transactionId": "TXN122",
+        "amount": 100,
+        "date": "2026-02-13"
+      },
+      {
+        "transactionId": "TXN099",
+        "amount": 210.8,
+        "date": "2026-02-24"
+      },
+      {
+        "transactionId": "TXN113",
+        "amount": 200,
+        "date": "2026-02-28"
+      },
+      {
+        "transactionId": "TXN103",
+        "amount": 45,
+        "date": "2026-03-02"
+      },
+      {
+        "transactionId": "TXN116",
+        "amount": 234.5,
+        "date": "2026-03-05"
+      },
+      {
+        "transactionId": "TXN100",
+        "amount": 58.6,
+        "date": "2026-03-12"
+      },
+      {
+        "transactionId": "TXN111",
+        "amount": 99.99,
+        "date": "2026-03-16"
+      },
+      {
+        "transactionId": "TXN112",
+        "amount": 49.99,
+        "date": "2026-03-18"
+      },
+      {
+        "transactionId": "TXN104",
+        "amount": 220,
+        "date": "2026-04-11"
+      },
+      {
+        "transactionId": "TXN105",
+        "amount": 95,
+        "date": "2026-04-13"
+      },
+      {
+        "transactionId": "TXN115",
+        "amount": 84.2,
+        "date": "2026-04-20"
+      },
+      {
+        "transactionId": "TXN120",
+        "amount": 89.9,
+        "date": "2026-04-27"
+      },
+      {
+        "transactionId": "TXN101",
+        "amount": 134.9,
+        "date": "2026-05-04"
+      },
+      {
+        "transactionId": "TXN102",
+        "amount": 80,
+        "date": "2026-05-08"
+      },
+      {
+        "transactionId": "TXN114",
+        "amount": 120,
+        "date": "2026-05-14"
+      },
+      {
+        "transactionId": "TXN121",
+        "amount": 250,
+        "date": "2026-05-21"
+      },
+      {
+        "transactionId": "TXN106",
+        "amount": 60,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN107",
+        "amount": 140,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN118",
+        "amount": 55.5,
+        "date": "2026-06-03"
+      },
+      {
+        "transactionId": "TXN119",
+        "amount": 67,
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST006",
+    "customer": "Priya Kapoor",
+    "transactions": [
+      {
+        "transactionId": "TXN139",
+        "amount": 77.77,
+        "date": "2025-12-24"
+      },
+      {
+        "transactionId": "TXN140",
+        "amount": 210,
+        "date": "2025-12-30"
+      },
+      {
+        "transactionId": "TXN137",
+        "amount": 34.5,
+        "date": "2026-01-12"
+      },
+      {
+        "transactionId": "TXN138",
+        "amount": 115,
+        "date": "2026-01-18"
+      },
+      {
+        "transactionId": "TXN124",
+        "amount": 42.75,
+        "date": "2026-01-30"
+      },
+      {
+        "transactionId": "TXN146",
+        "amount": 199.99,
+        "date": "2026-02-01"
+      },
+      {
+        "transactionId": "TXN135",
+        "amount": 130,
+        "date": "2026-02-22"
+      },
+      {
+        "transactionId": "TXN136",
+        "amount": 159.99,
+        "date": "2026-02-23"
+      },
+      {
+        "transactionId": "TXN134",
+        "amount": 90,
+        "date": "2026-03-02"
+      },
+      {
+        "transactionId": "TXN145",
+        "amount": 49,
+        "date": "2026-03-11"
+      },
+      {
+        "transactionId": "TXN125",
+        "amount": 189.99,
+        "date": "2026-03-19"
+      },
+      {
+        "transactionId": "TXN126",
+        "amount": 75,
+        "date": "2026-03-20"
+      },
+      {
+        "transactionId": "TXN144",
+        "amount": 120,
+        "date": "2026-03-21"
+      },
+      {
+        "transactionId": "TXN133",
+        "amount": 49.99,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN127",
+        "amount": 55,
+        "date": "2026-04-05"
+      },
+      {
+        "transactionId": "TXN143",
+        "amount": 95.5,
+        "date": "2026-04-14"
+      },
+      {
+        "transactionId": "TXN123",
+        "amount": 320,
+        "date": "2026-04-28"
+      },
+      {
+        "transactionId": "TXN128",
+        "amount": 110,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN141",
+        "amount": 56,
+        "date": "2026-05-09"
+      },
+      {
+        "transactionId": "TXN142",
+        "amount": 60,
+        "date": "2026-05-11"
+      },
+      {
+        "transactionId": "TXN132",
+        "amount": 140,
+        "date": "2026-05-14"
+      },
+      {
+        "transactionId": "TXN129",
+        "amount": 66.6,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN130",
+        "amount": 88.8,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN131",
+        "amount": 200,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST007",
+    "customer": "Vikram Joshi",
+    "transactions": [
+      {
+        "transactionId": "TXN164",
+        "amount": 55,
+        "date": "2025-12-05"
+      },
+      {
+        "transactionId": "TXN163",
+        "amount": 140,
+        "date": "2025-12-22"
+      },
+      {
+        "transactionId": "TXN152",
+        "amount": 130,
+        "date": "2026-01-02"
+      },
+      {
+        "transactionId": "TXN153",
+        "amount": 90,
+        "date": "2026-01-09"
+      },
+      {
+        "transactionId": "TXN165",
+        "amount": 199.99,
+        "date": "2026-01-18"
+      },
+      {
+        "transactionId": "TXN166",
+        "amount": 68,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN147",
+        "amount": 259.4,
+        "date": "2026-02-14"
+      },
+      {
+        "transactionId": "TXN160",
+        "amount": 49.5,
+        "date": "2026-02-25"
+      },
+      {
+        "transactionId": "TXN157",
+        "amount": 180,
+        "date": "2026-03-02"
+      },
+      {
+        "transactionId": "TXN161",
+        "amount": 99,
+        "date": "2026-03-17"
+      },
+      {
+        "transactionId": "TXN149",
+        "amount": 67.5,
+        "date": "2026-03-23"
+      },
+      {
+        "transactionId": "TXN170",
+        "amount": 210,
+        "date": "2026-03-30"
+      },
+      {
+        "transactionId": "TXN158",
+        "amount": 60,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN167",
+        "amount": 120,
+        "date": "2026-04-02"
+      },
+      {
+        "transactionId": "TXN150",
+        "amount": 44,
+        "date": "2026-04-10"
+      },
+      {
+        "transactionId": "TXN151",
+        "amount": 120,
+        "date": "2026-04-15"
+      },
+      {
+        "transactionId": "TXN168",
+        "amount": 77,
+        "date": "2026-04-22"
+      },
+      {
+        "transactionId": "TXN169",
+        "amount": 88.8,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN148",
+        "amount": 88.2,
+        "date": "2026-05-07"
+      },
+      {
+        "transactionId": "TXN156",
+        "amount": 75,
+        "date": "2026-05-13"
+      },
+      {
+        "transactionId": "TXN159",
+        "amount": 85,
+        "date": "2026-05-21"
+      },
+      {
+        "transactionId": "TXN162",
+        "amount": 135,
+        "date": "2026-05-29"
+      },
+      {
+        "transactionId": "TXN154",
+        "amount": 210,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN155",
+        "amount": 59.99,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST008",
+    "customer": "Meera Nair",
+    "transactions": [
+      {
+        "transactionId": "TXN191",
+        "amount": 68,
+        "date": "2025-12-11"
+      },
+      {
+        "transactionId": "TXN181",
+        "amount": 45,
+        "date": "2026-01-05"
+      },
+      {
+        "transactionId": "TXN190",
+        "amount": 210,
+        "date": "2026-01-20"
+      },
+      {
+        "transactionId": "TXN172",
+        "amount": 145,
+        "date": "2026-01-22"
+      },
+      {
+        "transactionId": "TXN193",
+        "amount": 95,
+        "date": "2026-01-28"
+      },
+      {
+        "transactionId": "TXN189",
+        "amount": 77.7,
+        "date": "2026-02-03"
+      },
+      {
+        "transactionId": "TXN194",
+        "amount": 49.99,
+        "date": "2026-02-08"
+      },
+      {
+        "transactionId": "TXN176",
+        "amount": 49.99,
+        "date": "2026-02-14"
+      },
+      {
+        "transactionId": "TXN177",
+        "amount": 250,
+        "date": "2026-02-18"
+      },
+      {
+        "transactionId": "TXN174",
+        "amount": 70,
+        "date": "2026-03-03"
+      },
+      {
+        "transactionId": "TXN175",
+        "amount": 88,
+        "date": "2026-03-09"
+      },
+      {
+        "transactionId": "TXN185",
+        "amount": 140,
+        "date": "2026-03-15"
+      },
+      {
+        "transactionId": "TXN188",
+        "amount": 199.99,
+        "date": "2026-03-28"
+      },
+      {
+        "transactionId": "TXN192",
+        "amount": 130,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN180",
+        "amount": 120,
+        "date": "2026-04-12"
+      },
+      {
+        "transactionId": "TXN173",
+        "amount": 56.8,
+        "date": "2026-04-25"
+      },
+      {
+        "transactionId": "TXN184",
+        "amount": 99,
+        "date": "2026-04-30"
+      },
+      {
+        "transactionId": "TXN182",
+        "amount": 160,
+        "date": "2026-05-01"
+      },
+      {
+        "transactionId": "TXN183",
+        "amount": 85,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN171",
+        "amount": 99.99,
+        "date": "2026-05-13"
+      },
+      {
+        "transactionId": "TXN186",
+        "amount": 55.5,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN178",
+        "amount": 135.6,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN187",
+        "amount": 35,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN179",
+        "amount": 60,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST009",
+    "customer": "Aditi Verma",
+    "transactions": [
+      {
+        "transactionId": "TXN203",
+        "amount": 95,
+        "date": "2026-01-08"
+      },
+      {
+        "transactionId": "TXN204",
+        "amount": 45,
+        "date": "2026-01-15"
+      },
+      {
+        "transactionId": "TXN202",
+        "amount": 130,
+        "date": "2026-02-03"
+      },
+      {
+        "transactionId": "TXN195",
+        "amount": 299.99,
+        "date": "2026-02-09"
+      },
+      {
+        "transactionId": "TXN210",
+        "amount": 49.99,
+        "date": "2026-02-10"
+      },
+      {
+        "transactionId": "TXN218",
+        "amount": 55.5,
+        "date": "2026-02-25"
+      },
+      {
+        "transactionId": "TXN209",
+        "amount": 120,
+        "date": "2026-03-03"
+      },
+      {
+        "transactionId": "TXN201",
+        "amount": 60,
+        "date": "2026-03-05"
+      },
+      {
+        "transactionId": "TXN211",
+        "amount": 85,
+        "date": "2026-03-11"
+      },
+      {
+        "transactionId": "TXN196",
+        "amount": 124.5,
+        "date": "2026-03-28"
+      },
+      {
+        "transactionId": "TXN212",
+        "amount": 250,
+        "date": "2026-04-09"
+      },
+      {
+        "transactionId": "TXN199",
+        "amount": 140,
+        "date": "2026-04-14"
+      },
+      {
+        "transactionId": "TXN208",
+        "amount": 89.99,
+        "date": "2026-04-18"
+      },
+      {
+        "transactionId": "TXN200",
+        "amount": 55,
+        "date": "2026-04-20"
+      },
+      {
+        "transactionId": "TXN197",
+        "amount": 72.8,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN217",
+        "amount": 179.99,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN198",
+        "amount": 88,
+        "date": "2026-05-10"
+      },
+      {
+        "transactionId": "TXN213",
+        "amount": 34,
+        "date": "2026-05-13"
+      },
+      {
+        "transactionId": "TXN214",
+        "amount": 99,
+        "date": "2026-05-14"
+      },
+      {
+        "transactionId": "TXN207",
+        "amount": 77,
+        "date": "2026-05-21"
+      },
+      {
+        "transactionId": "TXN205",
+        "amount": 210,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN206",
+        "amount": 160,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN215",
+        "amount": 140,
+        "date": "2026-06-03"
+      },
+      {
+        "transactionId": "TXN216",
+        "amount": 68,
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST010",
+    "customer": "Rakesh Gupta",
+    "transactions": []
+  },
+  {
+    "customerId": "CUST011",
+    "customer": "Sonal Desai",
+    "transactions": [
+      {
+        "transactionId": "TXN252",
+        "amount": 140,
+        "date": "2026-01-14"
+      },
+      {
+        "transactionId": "TXN255",
+        "amount": 120,
+        "date": "2026-01-19"
+      },
+      {
+        "transactionId": "TXN265",
+        "amount": 34,
+        "date": "2026-01-25"
+      },
+      {
+        "transactionId": "TXN253",
+        "amount": 130,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN254",
+        "amount": 59.99,
+        "date": "2026-02-10"
+      },
+      {
+        "transactionId": "TXN243",
+        "amount": 99.45,
+        "date": "2026-02-20"
+      },
+      {
+        "transactionId": "TXN250",
+        "amount": 180,
+        "date": "2026-03-07"
+      },
+      {
+        "transactionId": "TXN260",
+        "amount": 44,
+        "date": "2026-03-12"
+      },
+      {
+        "transactionId": "TXN244",
+        "amount": 123,
+        "date": "2026-03-17"
+      },
+      {
+        "transactionId": "TXN251",
+        "amount": 210,
+        "date": "2026-03-21"
+      },
+      {
+        "transactionId": "TXN261",
+        "amount": 160,
+        "date": "2026-03-29"
+      },
+      {
+        "transactionId": "TXN248",
+        "amount": 55.5,
+        "date": "2026-04-03"
+      },
+      {
+        "transactionId": "TXN249",
+        "amount": 80,
+        "date": "2026-04-05"
+      },
+      {
+        "transactionId": "TXN262",
+        "amount": 88,
+        "date": "2026-04-18"
+      },
+      {
+        "transactionId": "TXN266",
+        "amount": 99,
+        "date": "2026-04-22"
+      },
+      {
+        "transactionId": "TXN258",
+        "amount": 250,
+        "date": "2026-04-30"
+      },
+      {
+        "transactionId": "TXN259",
+        "amount": 95,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN245",
+        "amount": 145.6,
+        "date": "2026-05-09"
+      },
+      {
+        "transactionId": "TXN246",
+        "amount": 60,
+        "date": "2026-05-10"
+      },
+      {
+        "transactionId": "TXN256",
+        "amount": 99.99,
+        "date": "2026-05-25"
+      },
+      {
+        "transactionId": "TXN247",
+        "amount": 45,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN257",
+        "amount": 75,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN263",
+        "amount": 210,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN264",
+        "amount": 56,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST012",
+    "customer": "Imran Khan",
+    "transactions": [
+      {
+        "transactionId": "TXN280",
+        "amount": 120,
+        "date": "2026-01-02"
+      },
+      {
+        "transactionId": "TXN281",
+        "amount": 220,
+        "date": "2026-01-07"
+      },
+      {
+        "transactionId": "TXN268",
+        "amount": 55.3,
+        "date": "2026-01-26"
+      },
+      {
+        "transactionId": "TXN283",
+        "amount": 180,
+        "date": "2026-02-05"
+      },
+      {
+        "transactionId": "TXN271",
+        "amount": 129.99,
+        "date": "2026-02-10"
+      },
+      {
+        "transactionId": "TXN272",
+        "amount": 60,
+        "date": "2026-02-22"
+      },
+      {
+        "transactionId": "TXN285",
+        "amount": 140,
+        "date": "2026-02-28"
+      },
+      {
+        "transactionId": "TXN284",
+        "amount": 88.8,
+        "date": "2026-03-09"
+      },
+      {
+        "transactionId": "TXN269",
+        "amount": 320.99,
+        "date": "2026-03-11"
+      },
+      {
+        "transactionId": "TXN270",
+        "amount": 75,
+        "date": "2026-03-15"
+      },
+      {
+        "transactionId": "TXN279",
+        "amount": 130,
+        "date": "2026-03-27"
+      },
+      {
+        "transactionId": "TXN289",
+        "amount": 150,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN267",
+        "amount": 215.4,
+        "date": "2026-04-04"
+      },
+      {
+        "transactionId": "TXN282",
+        "amount": 47.5,
+        "date": "2026-04-12"
+      },
+      {
+        "transactionId": "TXN278",
+        "amount": 99.99,
+        "date": "2026-04-19"
+      },
+      {
+        "transactionId": "TXN273",
+        "amount": 89,
+        "date": "2026-05-01"
+      },
+      {
+        "transactionId": "TXN274",
+        "amount": 150,
+        "date": "2026-05-03"
+      },
+      {
+        "transactionId": "TXN275",
+        "amount": 49.99,
+        "date": "2026-05-07"
+      },
+      {
+        "transactionId": "TXN286",
+        "amount": 99,
+        "date": "2026-05-11"
+      },
+      {
+        "transactionId": "TXN290",
+        "amount": 55,
+        "date": "2026-05-15"
+      },
+      {
+        "transactionId": "TXN276",
+        "amount": 199.99,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN277",
+        "amount": 34,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN287",
+        "amount": 75,
+        "date": "2026-06-03"
+      },
+      {
+        "transactionId": "TXN288",
+        "amount": 64,
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST013",
+    "customer": "Rekha Singh",
+    "transactions": [
+      {
+        "transactionId": "TXN308",
+        "amount": 59.99,
+        "date": "2026-01-09"
+      },
+      {
+        "transactionId": "TXN298",
+        "amount": 44.44,
+        "date": "2026-01-12"
+      },
+      {
+        "transactionId": "TXN300",
+        "amount": 120,
+        "date": "2026-01-25"
+      },
+      {
+        "transactionId": "TXN299",
+        "amount": 99,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN314",
+        "amount": 56,
+        "date": "2026-02-14"
+      },
+      {
+        "transactionId": "TXN291",
+        "amount": 89.2,
+        "date": "2026-02-15"
+      },
+      {
+        "transactionId": "TXN307",
+        "amount": 210,
+        "date": "2026-02-20"
+      },
+      {
+        "transactionId": "TXN313",
+        "amount": 74.5,
+        "date": "2026-03-01"
+      },
+      {
+        "transactionId": "TXN294",
+        "amount": 60,
+        "date": "2026-03-03"
+      },
+      {
+        "transactionId": "TXN295",
+        "amount": 45,
+        "date": "2026-03-08"
+      },
+      {
+        "transactionId": "TXN296",
+        "amount": 130,
+        "date": "2026-03-11"
+      },
+      {
+        "transactionId": "TXN309",
+        "amount": 88,
+        "date": "2026-03-17"
+      },
+      {
+        "transactionId": "TXN293",
+        "amount": 210.1,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN311",
+        "amount": 88,
+        "date": "2026-04-10"
+      },
+      {
+        "transactionId": "TXN301",
+        "amount": 180,
+        "date": "2026-04-25"
+      },
+      {
+        "transactionId": "TXN302",
+        "amount": 95,
+        "date": "2026-04-30"
+      },
+      {
+        "transactionId": "TXN312",
+        "amount": 99.99,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN297",
+        "amount": 75.5,
+        "date": "2026-05-09"
+      },
+      {
+        "transactionId": "TXN292",
+        "amount": 145.95,
+        "date": "2026-05-16"
+      },
+      {
+        "transactionId": "TXN303",
+        "amount": 250,
+        "date": "2026-05-21"
+      },
+      {
+        "transactionId": "TXN310",
+        "amount": 140,
+        "date": "2026-05-30"
+      },
+      {
+        "transactionId": "TXN304",
+        "amount": 55,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN305",
+        "amount": 210,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN306",
+        "amount": 39,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST014",
+    "customer": "Nikhil Sharma",
+    "transactions": [
+      {
+        "transactionId": "TXN331",
+        "amount": 34,
+        "date": "2026-01-10"
+      },
+      {
+        "transactionId": "TXN316",
+        "amount": 75.5,
+        "date": "2026-01-12"
+      },
+      {
+        "transactionId": "TXN324",
+        "amount": 210,
+        "date": "2026-01-20"
+      },
+      {
+        "transactionId": "TXN322",
+        "amount": 140,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN323",
+        "amount": 49.99,
+        "date": "2026-02-08"
+      },
+      {
+        "transactionId": "TXN336",
+        "amount": 150,
+        "date": "2026-02-13"
+      },
+      {
+        "transactionId": "TXN329",
+        "amount": 45,
+        "date": "2026-02-25"
+      },
+      {
+        "transactionId": "TXN335",
+        "amount": 66.6,
+        "date": "2026-03-02"
+      },
+      {
+        "transactionId": "TXN315",
+        "amount": 135.6,
+        "date": "2026-03-03"
+      },
+      {
+        "transactionId": "TXN328",
+        "amount": 130,
+        "date": "2026-03-07"
+      },
+      {
+        "transactionId": "TXN320",
+        "amount": 60,
+        "date": "2026-03-10"
+      },
+      {
+        "transactionId": "TXN330",
+        "amount": 175,
+        "date": "2026-03-15"
+      },
+      {
+        "transactionId": "TXN319",
+        "amount": 120,
+        "date": "2026-04-05"
+      },
+      {
+        "transactionId": "TXN321",
+        "amount": 250,
+        "date": "2026-04-11"
+      },
+      {
+        "transactionId": "TXN334",
+        "amount": 140,
+        "date": "2026-04-20"
+      },
+      {
+        "transactionId": "TXN337",
+        "amount": 55,
+        "date": "2026-04-22"
+      },
+      {
+        "transactionId": "TXN327",
+        "amount": 99,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN332",
+        "amount": 210,
+        "date": "2026-05-04"
+      },
+      {
+        "transactionId": "TXN333",
+        "amount": 99.99,
+        "date": "2026-05-06"
+      },
+      {
+        "transactionId": "TXN317",
+        "amount": 58.9,
+        "date": "2026-05-18"
+      },
+      {
+        "transactionId": "TXN318",
+        "amount": 90,
+        "date": "2026-05-19"
+      },
+      {
+        "transactionId": "TXN325",
+        "amount": 88.8,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN326",
+        "amount": 180,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN338",
+        "amount": 199.99,
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "customerId": "CUST015",
+    "customer": "Priyanka Mishra",
+    "transactions": [
+      {
+        "transactionId": "TXN348",
+        "amount": 88.88,
+        "date": "2026-01-03"
+      },
+      {
+        "transactionId": "TXN349",
+        "amount": 145,
+        "date": "2026-01-10"
+      },
+      {
+        "transactionId": "TXN357",
+        "amount": 160,
+        "date": "2026-01-22"
+      },
+      {
+        "transactionId": "TXN339",
+        "amount": 169.4,
+        "date": "2026-02-02"
+      },
+      {
+        "transactionId": "TXN356",
+        "amount": 55.5,
+        "date": "2026-02-08"
+      },
+      {
+        "transactionId": "TXN350",
+        "amount": 66,
+        "date": "2026-02-14"
+      },
+      {
+        "transactionId": "TXN359",
+        "amount": 74.5,
+        "date": "2026-03-06"
+      },
+      {
+        "transactionId": "TXN352",
+        "amount": 120,
+        "date": "2026-03-19"
+      },
+      {
+        "transactionId": "TXN353",
+        "amount": 99,
+        "date": "2026-03-21"
+      },
+      {
+        "transactionId": "TXN341",
+        "amount": 243.75,
+        "date": "2026-03-27"
+      },
+      {
+        "transactionId": "TXN342",
+        "amount": 110,
+        "date": "2026-03-29"
+      },
+      {
+        "transactionId": "TXN343",
+        "amount": 60,
+        "date": "2026-04-01"
+      },
+      {
+        "transactionId": "TXN358",
+        "amount": 210,
+        "date": "2026-04-02"
+      },
+      {
+        "transactionId": "TXN351",
+        "amount": 199.99,
+        "date": "2026-04-11"
+      },
+      {
+        "transactionId": "TXN340",
+        "amount": 84.2,
+        "date": "2026-04-20"
+      },
+      {
+        "transactionId": "TXN344",
+        "amount": 95,
+        "date": "2026-05-02"
+      },
+      {
+        "transactionId": "TXN354",
+        "amount": 210,
+        "date": "2026-05-07"
+      },
+      {
+        "transactionId": "TXN355",
+        "amount": 140,
+        "date": "2026-05-09"
+      },
+      {
+        "transactionId": "TXN345",
+        "amount": 130,
+        "date": "2026-05-15"
+      },
+      {
+        "transactionId": "TXN362",
+        "amount": 243.75,
+        "date": "2026-05-20"
+      },
+      {
+        "transactionId": "TXN346",
+        "amount": 75.6,
+        "date": "2026-06-01"
+      },
+      {
+        "transactionId": "TXN347",
+        "amount": 49.99,
+        "date": "2026-06-02"
+      },
+      {
+        "transactionId": "TXN360",
+        "amount": 95,
+        "date": "2026-06-03"
+      },
+      {
+        "transactionId": "TXN361",
+        "amount": 84.2,
+        "date": "2026-06-04"
+      }
+    ]
+  }
+]

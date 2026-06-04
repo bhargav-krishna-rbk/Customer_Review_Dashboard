@@ -1,0 +1,16 @@
+.main-card{
+    display: flex;
+    color: white;
+    background-color: #83b3e4;
+    width: 210vh;
+    text-align: left;
+    padding: 0.1px;
+    padding-left: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    
+}
+
+.main-card-title{
+    margin : 10px
+}
